@@ -13,7 +13,7 @@ Create signs with letters and symbols that can serve as information boards.
   * [tradelans](https://github.com/Lunovox/tradelands) → Protection of land through payment of periodic rate.
   
 **Licence:**
- * GNU LGPL: https://github.com/Lunovox/tradelands/blob/master/LICENSE
+ * GNU LGPL: https://github.com/Lunovox/outdoor/blob/master/LICENSE
 
 **Developers:**
  * [Lunovox](mailto:lunovox@openmailbox.org)
