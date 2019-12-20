@@ -7,7 +7,7 @@ Create signs with letters and symbols that can serve as information boards.
 ![](https://raw.githubusercontent.com/Lunovox/outdoor/master/screenshot.png)
 
 **Dependencies:**
-  * default → Minetest Game Included
+  * default → Minetest Game Included (version 0.4.17.1 or more)
 
 **Optional Dependencies:**
   * [intllib](https://github.com/minetest-mods/intllib) → Facilitates the translation of several other mods into your native language, or other languages.
